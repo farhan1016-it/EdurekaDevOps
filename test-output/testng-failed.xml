@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG]">
+  <test name="MercuryTours(failed)">
+    <classes>
+      <class name="com.mindtree.TestNG.ExecutionTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="TestSuiteDriver"/>
+        </methods>
+      </class> <!-- com.mindtree.TestNG.ExecutionTest -->
+    </classes>
+  </test> <!-- MercuryTours(failed) -->
+</suite> <!-- Failed suite [TestNG] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG" duration-ms="34113" started-at="2017-10-27T12:50:20Z" finished-at="2017-10-27T12:50:54Z">
+    <groups>
+    </groups>
+    <test name="MercuryTours" duration-ms="34113" started-at="2017-10-27T12:50:20Z" finished-at="2017-10-27T12:50:54Z">
+      <class name="com.mindtree.TestNG.ExecutionTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mindtree.TestNG.ExecutionTest@5e3a8624]" name="beforeTest" is-config="true" duration-ms="16" started-at="2017-10-27T18:20:20Z" finished-at="2017-10-27T18:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestSuiteDriver()[pri:0, instance:com.mindtree.TestNG.ExecutionTest@5e3a8624]" name="TestSuiteDriver" duration-ms="33956" started-at="2017-10-27T18:20:20Z" finished-at="2017-10-27T18:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSuiteDriver -->
+        <test-method status="PASS" signature="exportToExcel()[pri:1, instance:com.mindtree.TestNG.ExecutionTest@5e3a8624]" name="exportToExcel" duration-ms="125" started-at="2017-10-27T18:20:54Z" finished-at="2017-10-27T18:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exportToExcel -->
+      </class> <!-- com.mindtree.TestNG.ExecutionTest -->
+    </test> <!-- MercuryTours -->
+  </suite> <!-- TestNG -->
+</testng-results>
